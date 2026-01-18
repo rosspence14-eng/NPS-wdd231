@@ -142,6 +142,9 @@ a:hover {
   margin-left: 0.3em;
 }
 
+.global-header {
+  background-color: var(--bs-black);
+  color: var(--bs-white);
   padding: 0.5em 1em;
   display: flex;
   align-items: center;
